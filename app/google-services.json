@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29419196093",
+    "firebase_url": "https://ordermovie-34c99.firebaseio.com",
+    "project_id": "ordermovie-34c99",
+    "storage_bucket": "ordermovie-34c99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29419196093:android:8ad0a72f268a479a7bf1d4",
+        "android_client_info": {
+          "package_name": "com.example.ordermovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29419196093-3ps400vg67hp8le4e8ket4hro64t1trp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ordermovie",
+            "certificate_hash": "5e7fc8a4d3f61effa24ad0d775c588c035939c6c"
+          }
+        },
+        {
+          "client_id": "29419196093-kiepoonuqk7jmhgnukep89b0164c3r3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BD1BnGOeuUGX6ydoUAsXtoH5DT3Mt_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29419196093-kiepoonuqk7jmhgnukep89b0164c3r3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
